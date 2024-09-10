@@ -1,0 +1,21 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: antiquewhite;
+  background-color: #24292e;
+}
+
+a {
+  color: antiquewhite;
+}
+
+a:hover {
+  color: aliceblue;
+}
+
+a:visited {
+  color: lightgray;
+}
+
+.img {
+  border-radius: 20px;
+}
